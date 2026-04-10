@@ -1,5 +1,6 @@
 /*
-Given a sorted array consisting of duplicate elements. If we remove the duplicates what will be the length of the array?
+Given a sorted array consisting of duplicate elements.
+If we remove the duplicates what will be the length of the array?
 Expected
 Time Complexity: O(n)
 Space Complexity: O(1)
